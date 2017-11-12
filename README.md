@@ -73,3 +73,7 @@ This bot was based off the work of lmammino and the norrisbot project. I created
 ## License
 
 Licensed under [MIT License](LICENSE).
+
+
+## ADD README.md
+201502109 Jang Eunjeong
