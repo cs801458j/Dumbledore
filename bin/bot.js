@@ -26,6 +26,9 @@ const parseServer = new ParseInstance({
   mountPath: process.env.MOUNT_PATH,
 });
 
+
+
+
 // web server
 const webServer = new WebInstance({
   port: process.env.PORT,
