@@ -8,6 +8,8 @@ class ParseInstance {
     this.settings = settings;
   }
 
+
+  
   create() {
     return new Promise((resolve, reject) => {
       try {
